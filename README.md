@@ -13,3 +13,6 @@ Vamos a utilizar la imagen de Tomcat.
 
 
     docker pull tomcat
+
+
+![image](https://user-images.githubusercontent.com/91556752/171200982-ee431408-eee3-40d9-a030-637c79fabb87.png)
