@@ -16,3 +16,8 @@ Vamos a utilizar la imagen de Tomcat.
 
 
 ![image](https://user-images.githubusercontent.com/91556752/171200982-ee431408-eee3-40d9-a030-637c79fabb87.png)
+
+Como se puede ver en Docker desktop ya aparece nuestra imagen de Tomcat.
+
+
+![image](https://user-images.githubusercontent.com/91556752/171201239-cfd4008a-eccb-46d1-98ab-0613b05f5fa7.png)
