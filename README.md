@@ -24,3 +24,7 @@ Como se puede ver en Docker desktop ya aparece nuestra imagen de Tomcat.
 
 
         docker run -d --name PiZhop -p 80:8080 tomcat
+
+En Desktop 
+
+![image](https://user-images.githubusercontent.com/91556752/171203694-00f40240-5d53-4786-adbe-250be3a772f4.png)
