@@ -32,3 +32,7 @@ En Desktop
 En este caso lo ejecutaremos por terminal.
 
 ![image](https://user-images.githubusercontent.com/91556752/171204505-bb24d069-8f68-4a1f-aeb7-ca9763dc18b4.png)
+Ya lo tenemos creado y arrancado.
+
+![image](https://user-images.githubusercontent.com/91556752/171205299-4fdddd68-6794-4219-886e-2febf4359704.png)
+
