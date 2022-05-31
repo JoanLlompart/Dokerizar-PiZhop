@@ -28,3 +28,7 @@ Como se puede ver en Docker desktop ya aparece nuestra imagen de Tomcat.
 En Desktop 
 
 ![image](https://user-images.githubusercontent.com/91556752/171203694-00f40240-5d53-4786-adbe-250be3a772f4.png)
+
+En este caso lo ejecutaremos por terminal.
+
+![image](https://user-images.githubusercontent.com/91556752/171204505-bb24d069-8f68-4a1f-aeb7-ca9763dc18b4.png)
